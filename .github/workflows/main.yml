@@ -1,3 +1,4 @@
+#teste
 name: senai_automacao_efs
 run-name: ${{ github.actor }} Pipeline deploy
 on:
